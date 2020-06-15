@@ -2,5 +2,5 @@
 Basic express boilerplate with sequelize-mysql
 
 - Change app name in package.json
-- Edit config.js
+- Edit .env.js
 - npm run dev
